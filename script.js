@@ -1,13 +1,13 @@
 $(".NarutoChico").click(function() {
- $(".Clones").toggle();
+    $(".Clones").toggle();
 });
 
 $(".Naruto").click(function() {
- $(".JefeSapo").fadeToggle();
+    $(".JefeSapo").fadeToggle();
 });
 
 $(".NarutoChackra").click(function() {
- $(".Kyuubi").slideToggle();
+    $(".Kyuubi").slideToggle();
 
 });
 
