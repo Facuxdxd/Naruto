@@ -1,0 +1,26 @@
+body{
+ text-align:center;
+ background-color: black;
+}
+.row {
+    display: flex;
+}
+
+.row > div {
+    flex: 0 1 50vw;
+    height: 100%;
+}
+
+img {
+    width: 60%;
+}
+
+.control {
+    cursor: pointer;
+}
+h1{
+ color:white;   
+}
+p{
+ color:white;   
+}
